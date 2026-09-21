@@ -286,8 +286,8 @@ This project is licensed under the MIT License.
 ## 🙋 Author
 
 **Saantanu**  
-📧 saantanu15@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)  
+📧 saantanu15@gmail.com, luckyboyshantanu@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/santanu-kumar-8a4071b4)  
 💼 [Portfolio](https://your-portfolio-url.com)  
 
 ---
